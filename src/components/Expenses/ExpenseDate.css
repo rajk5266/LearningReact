@@ -1,0 +1,11 @@
+.date-section{
+    font-style: italic;
+    border: 2px solid black;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 5px 8px rgba(13, 13, 13, 0.25);
+}
+.expense-day{
+    /* color: white; */
+}
